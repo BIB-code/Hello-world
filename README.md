@@ -1,2 +1,2 @@
 # Hello-world
-I new here &amp; I trying to learn who to use github 
+I am new here &amp; I am trying to learn how to use github 
